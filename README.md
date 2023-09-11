@@ -1,7 +1,6 @@
 #IRIS DATA SET Prediction - Kaggle Projesi
 
-Bu proje, "" veri setini kullanarak meme kanseri teşhisini yapmayı amaçlayan bir yapay sinir ağı (ANN) modeli geliştirmeyi hedeflemektedir.
-
+Bu proje, Bu projenin amacı, Iris bitkisi türlerini sınıflandırmak için bir yapay sinir ağı (ANN) modeli oluşturmak ve bu modelin performansını değerlendirmektir. Projenin adımları, veri hazırlama, model oluşturma, eğitim, tahmin ve sonuç değerlendirmeyi içerir. Temel amaç, verileri kullanarak ANN modelini eğitmek ve daha sonra bu modeli kullanarak yeni Iris bitkisi örneklerinin türlerini tahmin etmektir. 
 
 
 Bir iris bitkisi türünün sınıflandırılması için bir yapay sinir ağı (ANN) modeli oluşturan, eğiten ve değerlendiren bir dizi adımdan oluşuyor. Bu adımlar şunları içeriyor:
